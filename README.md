@@ -1,16 +1,35 @@
-## Hi there 👋
+# 🖥️ Felipe Cruzato Yacobian
 
-<!--
-**FelipeYacobian/FelipeYacobian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Desenvolvedor Fullstack`**
 
-Here are some ideas to get you started:
+Me chamo **Felipe Cruzato Yacobian**, tenho 20 anos e sou estudante de **Ciência da Computação** na **UFSCar – São Carlos**.  
+Sou apaixonado por tecnologia e por entender como as coisas funcionam por trás do código.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Atualmente, estudo e desenvolvo projetos nas áreas de **backend**, **frontend**, **dados** e **machine learning**, com interesse em construir soluções eficientes, escaláveis e bem estruturadas.  
+Tenho experiência acadêmica e prática com **estruturas de dados**, **desenvolvimento web** e fundamentos de **engenharia de software**.
+
+Gosto de aprender na prática, explorar novas tecnologias e principalemnte evoluir constantemente como desenvolvedor.
+
+## 🖥️ Linguagens de Programação
+
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,js,ts,python" />
+</p>
+
+## 🖥️ Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
+</p>
+
+## 🖥️ Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,nodejs" />
+</p>
+
+## 🖥️ Tecnologias
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github" />
+</p>
